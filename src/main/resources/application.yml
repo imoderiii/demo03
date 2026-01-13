@@ -1,0 +1,5 @@
+cloudsaver:
+  telegram:
+    base-url: "https://t.me"
+    channels: []
+  cloud-patterns: []
